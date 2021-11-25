@@ -1558,8 +1558,8 @@ p.section-subtitle {
 
 .o-common-card {
 	display: block;
-	background: #1a1391;
-	border: 1px solid #342db3;
+	background: #74086b;
+	border: 1px solid #74086b;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	-ms-border-radius: 10px;
@@ -1570,7 +1570,7 @@ p.section-subtitle {
 
 .o-common-card .img-container {
 	position: relative;
-	background: #0d086a;
+	background: #850966;
 }
 
 .o-common-card .img-container img {
@@ -1589,7 +1589,7 @@ p.section-subtitle {
 	transform: rotateY(180deg);
 	padding: 20px;
 	height: 100%;
-	background-color: #1a1391;
+	background-color: #da57c4;
 	transition: all .8s;
 	opacity: 0;
 	display: -webkit-box;
