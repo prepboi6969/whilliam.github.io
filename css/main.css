@@ -150,7 +150,7 @@ Date Created: May 3, 2018
 /* -- Typography
 -------------------------------------- -- */
 
-body {
+body{
 	font-size: 16px;
 	color: #d670d1;
 }
@@ -334,8 +334,8 @@ html {
 body {
 	font-family: "Lato", sans-serif;
 	background-color: #d670d1;
-	background-image: -webkit-radial-gradient(farthest-side at 40% 40%, #221baa, rgba(67, 76, 181, 0));
-	background-image: radial-gradient(farthest-side at 40% 40%, #221baa, rgba(67, 76, 181, 0));
+	background-image: -webkit-radial-gradient(farthest-side at 40% 40%, #e920ac, rgba(67, 76, 181, 0));
+	background-image: radial-gradient(farthest-side at 40% 40%, #e920ac, rgba(67, 76, 181, 0));
 	color: #fff;
 	position: relative;
 	overflow-x: hidden;
