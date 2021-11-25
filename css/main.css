@@ -150,9 +150,9 @@ Date Created: May 3, 2018
 /* -- Typography
 -------------------------------------- -- */
 
-body{
+body {
 	font-size: 16px;
-	color: #d670d1;
+	color: #d1e1ff;
 }
 
 h1,
@@ -334,7 +334,7 @@ html {
 body {
 	font-family: "Lato", sans-serif;
 	background-color: #d670d1;
-	background-image: -webkit-radial-gradient(farthest-side at 40% 40%, #e920ac, rgba(67, 76, 181, 0));
+	background-image: -webkit-radial-gradient(farthest-side at 40% 40%, #dd58d6d0, rgba(67, 76, 181, 0));
 	background-image: radial-gradient(farthest-side at 40% 40%, #e920ac, rgba(67, 76, 181, 0));
 	color: #fff;
 	position: relative;
@@ -394,7 +394,7 @@ img {
 	z-index: -1;
 	display: block;
 	opacity: 0;
-	background-image: linear-gradient(to right, #f025f0, #f025f0);
+	background-image: linear-gradient(to right, #933eff, #8f5eff);
 	background-repeat: repeat-x;
 	transition: all .5s;
 }
